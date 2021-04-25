@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Quizo</string>
+    <string name="first_q">What was Ash Ketchum’s second Pokemon?</string>
+    <string name="second_q">"Fullmetal Alchemist" is an action-packed story centering on two brothers who lost more than one limb in a ritual to do what?</string>
+    <string name="third_q">Which anime series is all about obtaining the Holy Grail?</string>
+    <string name="fourth_q">Which anime features a protagonist able to kill instantly by writing a person\'s name down in his notebook?</string>
+    <string name="fifth_q">In bleach, How many Court Guard squads are there?</string>
+    <string name="sixth_q">In Code Geass, Choose only of the protagonit\'s siblings.</string>
+
+	<string name="first_q_first_a">Charmander</string>
+	<string name="first_q_second_a">Caterpie</string>
+	<string name="first_q_third_a">Squirtle</string>
+	<string name="first_q_fourth_a">Bulbasaur</string>
+
+    <string name="second_q_first_a">Grow their power exponentially</string>
+	<string name="second_q_second_a">Close the portal to Hell</string>
+	<string name="second_q_third_a">Create a homonculus</string>
+	<string name="second_q_fourth_a">Bring back their dead mother</string>
+
+	<string name="third_q_first_a">Psycho-pass</string>
+	<string name="third_q_second_a">Fate/stay night</string>
+	<string name="third_q_third_a">Gunslinger Girl</string>
+	<string name="third_q_fourth_a">Spice and Wolf</string>
+
+
+	<string name="fourth_q_first_a">"Clannad"</string>
+	<string name="fourth_q_second_a">"Death Note"</string>
+	<string name="fourth_q_third_a">"Full Metal Panic"</string>
+	<string name="fourth_q_fourth_a">"Hellsing"</string>
+
+	<string name="sixth_q_first_a">"Suzaku"</string>
+	<string name="sixth_q_second_a">"Rolo"</string>
+	<string name="sixth_q_third_a">"Euphemia"</string>
+	<string name="sixth_q_fourth_a">"Shirley"</string>
+	<string name="sixth_q_fifth_a">"Kallen"</string>
+	<string name="sixth_q_sixth_a">"Cornelia"</string>
+</resources>
+
+
+
